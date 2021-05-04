@@ -1,0 +1,5 @@
+14:32:35.459 [pool-2-thread-1] DEBUG vidapay.step_definitions.AmazonAddToCartStepDefinitions - getting the first result
+14:34:27.640 [pool-2-thread-1] DEBUG vidapay.step_definitions.AmazonAddToCartStepDefinitions - opening amazon homepage
+14:34:36.580 [pool-2-thread-1] DEBUG vidapay.step_definitions.AmazonAddToCartStepDefinitions - search itemmask
+14:34:42.855 [pool-2-thread-1] DEBUG vidapay.step_definitions.AmazonAddToCartStepDefinitions - getting the first result
+14:51:49.546 [pool-2-thread-1] DEBUG vidapay.step_definitions.AmazonAddToCartStepDefinitions - opening amazon homepage
